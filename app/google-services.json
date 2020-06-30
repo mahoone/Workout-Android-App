@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817509713520",
+    "firebase_url": "https://profit-219d4.firebaseio.com",
+    "project_id": "profit-219d4",
+    "storage_bucket": "profit-219d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817509713520:android:37dfa97c3724df4e",
+        "android_client_info": {
+          "package_name": "com.example.profit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817509713520-atps2lgl10f3phklllm4aro5sqg3il2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.profit",
+            "certificate_hash": "85ebd31334884d20cac021e608ad5c5dc3988a22"
+          }
+        },
+        {
+          "client_id": "817509713520-kc001bd8o52ajhmnjkugud21kclem1k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-zHJgEF_URAyFQzgi0ldQHzlniHti9Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817509713520-kc001bd8o52ajhmnjkugud21kclem1k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

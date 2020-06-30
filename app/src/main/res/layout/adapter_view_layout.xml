@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:weightSum="100">
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="66.6"
+        android:text="0:30"
+        android:textAlignment="center"
+        android:id="@+id/viewTime"
+        android:textColor="@color/colorBlackText"
+        app:fontFamily="@font/open_sans_semibold"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="33.3">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:id="@+id/textView_name"
+            android:text="Knee Crunches"
+            android:textColor="@color/colorBlackText"
+            app:fontFamily="@font/open_sans_semibold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_below="@+id/textView_name"
+            android:text="5 sets 12 reps"
+            android:id="@+id/textView_setsreps"
+            android:textColor="@color/colorBlackText"
+            app:fontFamily="@font/open_sans"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

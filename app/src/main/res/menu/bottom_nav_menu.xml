@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Profile" />
+    <item
+        android:id="@+id/workouts"
+        android:icon="@drawable/ic_dumbbell_variant_outline"
+        android:title="Workouts" />
+    <item
+        android:id="@+id/exercises"
+        android:icon="@drawable/ic_running"
+        android:title="Exercises" />
+</menu>

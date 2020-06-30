@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F2F2F2</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#202020</color>
+    <color name="colorGreySubText">#B2B1B1</color>
+    <color name="colorSignUp">#09BCFF</color>
+    <color name="colorLightGrey">#E9E9E9</color>
+    <color name="colorBlackText">#1A1A1A</color>
+    <color name="navbottombg">#FAFAFA</color>
+    <color name="textDarkGrey">#585858</color>
+    <color name="red">#FF0000</color>
+    <color name="colorDarkNav">#202020</color>
+    <color name="colorGreyTrans">#B2B1B1</color>
+</resources>

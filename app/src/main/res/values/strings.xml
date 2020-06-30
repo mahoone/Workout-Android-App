@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PROfit</string>
+    <string name="slogan">Get better results from your workouts.</string>
+    <string name="welcome">Welcome to PROfit</string>
+    <string name="welcomeSubText">Your workout journey starts here.</string>
+    <string name="fb">Continue with Facebook</string>
+    <string name="alreadyacc">Already have an account?</string>
+    <string name="loginifalreadyacc">Log in</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="username">Username</string>
+    <string name="resetpass">Reset Password</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_workouts">Workouts</string>
+    <string name="title_exercises">Exercises</string>
+    <string name="cong">Congratulations!</string>
+    <string name="workcompleted">You completed your workout!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
